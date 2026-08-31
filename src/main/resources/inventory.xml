@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inventory>
+    <items>
+        <item id="1">
+            <name>Laptop Dell XPS 15</name>
+            <category>Electronics</category>
+            <quantity>25</quantity>
+            <price>1299.99</price>
+            <description>High-performance laptop with 16GB RAM and 512GB SSD</description>
+            <sku>DELL-XPS-15-001</sku>
+            <reorderLevel>10</reorderLevel>
+            <lastUpdated>2024-01-15</lastUpdated>
+        </item>
+        <item id="2">
+            <name>Wireless Mouse Logitech</name>
+            <category>Electronics</category>
+            <quantity>150</quantity>
+            <price>29.99</price>
+            <description>Ergonomic wireless mouse with USB receiver</description>
+            <sku>LOG-MOUSE-001</sku>
+            <reorderLevel>50</reorderLevel>
+            <lastUpdated>2024-01-15</lastUpdated>
+        </item>
+        <item id="3">
+            <name>Office Chair Ergonomic</name>
+            <category>Furniture</category>
+            <quantity>30</quantity>
+            <price>199.99</price>
+            <description>Adjustable ergonomic office chair with lumbar support</description>
+            <sku>CHAIR-ERG-001</sku>
+            <reorderLevel>15</reorderLevel>
+            <lastUpdated>2024-01-15</lastUpdated>
+        </item>
+        <item id="4">
+            <name>Standing Desk Adjustable</name>
+            <category>Furniture</category>
+            <quantity>20</quantity>
+            <price>449.99</price>
+            <description>Electric height-adjustable standing desk</description>
+            <sku>DESK-STAND-001</sku>
+            <reorderLevel>8</reorderLevel>
+            <lastUpdated>2024-01-15</lastUpdated>
+        </item>
+        <item id="5">
+            <name>Monitor 27-inch 4K</name>
+            <category>Electronics</category>
+            <quantity>45</quantity>
+            <price>399.99</price>
+            <description>27-inch 4K UHD monitor with HDR support</description>
+            <sku>MON-4K-27-001</sku>
+            <reorderLevel>20</reorderLevel>
+            <lastUpdated>2024-01-15</lastUpdated>
+        </item>
+    </items>
+</inventory>
