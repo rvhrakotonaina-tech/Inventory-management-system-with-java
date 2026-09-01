@@ -24,6 +24,7 @@ A comprehensive web-based inventory management system built with Java, Servlets,
 
  <img width="1321" height="971" alt="Screenshot 2026-09-01 100618" src="https://github.com/user-attachments/assets/aa8069aa-c343-4447-9797-5578bb3fe4f4" />
 <img width="1020" height="970" alt="Screenshot 2026-09-01 100651" src="https://github.com/user-attachments/assets/241d263f-ccba-459e-ad1a-858b5d483c5e" />
+<img width="1205" height="980" alt="Screenshot 2026-09-01 100730" src="https://github.com/user-attachments/assets/81e7f7c0-fffb-4856-9558-ad3a702c86eb" />
 
  
 
