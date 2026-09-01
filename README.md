@@ -21,42 +21,8 @@ A comprehensive web-based inventory management system built with Java, Servlets,
 - **Build Tool**: Maven
 - **Server**: Apache Tomcat 9.x or higher
 
-## Project Structure
+ <img width="1321" height="971" alt="Screenshot 2026-09-01 100618" src="https://github.com/user-attachments/assets/aa8069aa-c343-4447-9797-5578bb3fe4f4" />
 
-```
-inventory-management/
-├── src/
-│   ├── main/
-│   │   ├── java/
-│   │   │   └── com/
-│   │   │       └── inventory/
-│   │   │           ├── model/
-│   │   │           │   ├── Item.java
-│   │   │           │   └── Category.java
-│   │   │           ├── servlet/
-│   │   │           │   ├── DashboardServlet.java
-│   │   │           │   ├── ItemListServlet.java
-│   │   │           │   ├── ItemAddServlet.java
-│   │   │           │   ├── ItemEditServlet.java
-│   │   │           │   └── ItemDeleteServlet.java
-│   │   │           └── util/
-│   │   │               └── XMLUtility.java
-│   │   ├── resources/
-│   │   │   └── inventory.xml
-│   │   └── webapp/
-│   │       ├── WEB-INF/
-│   │       │   ├── web.xml
-│   │       │   └── views/
-│   │       │       ├── dashboard.jsp
-│   │       │       ├── itemList.jsp
-│   │       │       ├── itemForm.jsp
-│   │       │       ├── header.jsp
-│   │       │       └── footer.jsp
-│   │       ├── css/
-│   │       │   └── style.css
-│   │       └── index.jsp
-└── pom.xml
-```
 
 ## Prerequisites
 
