@@ -1,3 +1,4 @@
+
 # Inventory Management System
 
 A comprehensive web-based inventory management system built with Java, Servlets, JSP, and XML. This system enables efficient inventory tracking, management, and reporting with a clean, modern interface.
@@ -22,6 +23,9 @@ A comprehensive web-based inventory management system built with Java, Servlets,
 - **Server**: Apache Tomcat 9.x or higher
 
  <img width="1321" height="971" alt="Screenshot 2026-09-01 100618" src="https://github.com/user-attachments/assets/aa8069aa-c343-4447-9797-5578bb3fe4f4" />
+<img width="1020" height="970" alt="Screenshot 2026-09-01 100651" src="https://github.com/user-attachments/assets/241d263f-ccba-459e-ad1a-858b5d483c5e" />
+
+ 
 
 
 ## Prerequisites
